@@ -25,5 +25,6 @@ npm run backend
 
 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<div align="center">
+<p><i>Developed by <a href="https://www.linkedin.com/in/bianca-dias-372a321a2/">Bianca Dias</i></p>
+</div>
